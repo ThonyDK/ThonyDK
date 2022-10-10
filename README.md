@@ -10,6 +10,11 @@ ________________________________________________________________________________
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white) 
 ________________________________________________________________________________________________________________
+
+[![](https://github-readme-stats.vercel.app/api?username=ThonyDK&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](#)  
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ThonyDK&theme=dark&hide_border=true)](#)  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThonyDK&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)](#)
+
 ## Github trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ThonyDK&theme=onedark&no-bg=true&no-frame=true&column=-1)
 
